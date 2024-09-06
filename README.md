@@ -5,6 +5,8 @@
 - 💼 Currently working for my mother as a housewife.
 - 🌱 Learning more about Python and JavaScript.
 
+[![card](https://github-readme-stats.vercel.app/api?username=manulanfran&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My skills
 
 **Applications and data**
@@ -21,6 +23,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture> 
+
 
 ## Where to find me
 
