@@ -5,7 +5,7 @@
 - 💼 Currently working for my mother as a housewife.
 - 🌱 Learning more about Python and JavaScript.
 
-[![card](https://github-readme-stats.vercel.app/api?username=manulanfran&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=manulanfran&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My skills
 
