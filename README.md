@@ -4,8 +4,6 @@
 - 🎓 High school student
 - 🌱 Learning more about Python and JavaScript.
 
-[![card](https://github-readme-stats.vercel.app/api?username=manulanfran&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## My skills
 
 **Applications and data**
